@@ -15,7 +15,7 @@ const Unufolio = {
             Java: ["Spring Boot", "Sprint Cloud", "Spring Security", "Mybatis", "JPA"],
             Go: ["Gin", "Gorm"],
             Kotlin: ["Ktor", "Exposed"],
-            C#: ["ASP.NET Core"],
+            CSharp: ["ASP.NET Core"],
             TypeScitpt: ["Node.js", "Deno", "Express", "Koa2", "Nest"],
             JavaScript: ["Node.js", "Express", "Koa2", "Nest"]
         },
