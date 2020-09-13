@@ -15,7 +15,8 @@ const Unufolio = {
             Go: ["Gin", "Gorm"],
             Kotlin: ["Ktor", "Exposed"],
             C#: ["ASP.NET Core"],
-            TypeScitpt/JavaScript: ["Node.js", "Deno", "Express", "Koa2"]
+            TypeScitpt: ["Node.js", "Deno", "Express", "Koa2"]
+            JavaScript: ["Node.js", "Express", "Koa2"]
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
