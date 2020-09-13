@@ -5,7 +5,7 @@
 ```javascript
 const Unufolio = {
     pronouns: "He" | "Him",
-    code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart", "C++"],
+    code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart", "C++", "Rust"],
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React.js", "Vue"],
