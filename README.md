@@ -15,12 +15,12 @@ const Unufolio = {
             Go: ["Gin", "Gorm"],
             Kotlin: ["Ktor", "Exposed"],
             C#: ["ASP.NET Core"],
-            TypeScitpt: ["Node.js", "Deno", "Express", "Koa2", "Nest"]
+            TypeScitpt: ["Node.js", "Deno", "Express", "Koa2", "Nest"],
             JavaScript: ["Node.js", "Express", "Koa2", "Nest"]
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
-        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle"]
+        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg"]
     }
 };
 ```
