@@ -12,7 +12,7 @@ const Unufolio = {
             frameworks: ["Angular", "React.js", "Vue"],
         },
         backEnd: {
-            Java: ["Spring Boot", "Sprint Cloud", "Spring Security", "Mybatis", "JPA"],
+            Java: ["Spring Boot", "Sprint Cloud", "Spring Security", "Mybatis", "JPA", "Netty"],
             Go: ["Gin", "Gorm"],
             Kotlin: ["Ktor", "Exposed"],
             CSharp: ["ASP.NET Core"],
