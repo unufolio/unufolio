@@ -21,7 +21,7 @@ const Unufolio = {
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
-        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg"]
+        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg", "gRPC", "Thrift"]
     }
 };
 ```
