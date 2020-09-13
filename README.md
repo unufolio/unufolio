@@ -6,7 +6,7 @@
 ```javascript
 const Unufolio = {
     pronouns: "He" | "Him",
-    code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart", "C++", "Rust", "Python"],
+    code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart", "C++"],
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React.js", "Vue"],
@@ -21,7 +21,7 @@ const Unufolio = {
         },
         devOps: ["Docker🐳", "Nginx", "Gitlab", "Jenkins", "Ansible"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
-        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg", "gRPC", "Thrift"]
+        misc: ["ElasticSearch", "Git", "Shell","Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg", "gRPC", "Thrift"]
     }
 };
 ```
