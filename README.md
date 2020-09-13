@@ -19,7 +19,7 @@ const Unufolio = {
             TypeScitpt: ["Node.js", "Deno", "Express", "Koa2", "Nest"],
             JavaScript: ["Node.js", "Express", "Koa2", "Nest"]
         },
-        devOps: ["Docker🐳", "Nginx"],
+        devOps: ["Docker🐳", "Nginx", "Gitlab", "Jenkins", "Ansible"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
         misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle", "ffmpeg", "gRPC", "Thrift"]
     }
