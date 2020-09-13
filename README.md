@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ---
+
+```json
 const Unufolio = {
     pronouns: "He" | "Him",
     code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart"],
@@ -20,5 +22,6 @@ const Unufolio = {
         misc: ["ElasticSearch", "Git", "Linux", "MacOS", "Maven", "Gradle"]
     }
 };
+```
 
 ![Unufolio github stats](https://github-readme-stats.vercel.app/api?username=unufolio&hide=["issues"]&show_icons=true)
