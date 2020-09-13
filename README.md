@@ -2,7 +2,7 @@
 
 ---
 
-```json
+```javascript
 const Unufolio = {
     pronouns: "He" | "Him",
     code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart"],
@@ -19,7 +19,7 @@ const Unufolio = {
         },
         devOps: ["Docker🐳", "Nginx"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
-        misc: ["ElasticSearch", "Git", "Linux", "MacOS", "Maven", "Gradle"]
+        misc: ["ElasticSearch", "Git", "Markdown", "Linux", "MacOS", "Maven", "Gradle"]
     }
 };
 ```
