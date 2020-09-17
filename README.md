@@ -10,6 +10,7 @@ const Unufolio = {
     technologies: {
         frontEnd: {
             frameworks: ["Angular", "React.js", "Vue"],
+            styles: ["css"]
         },
         backEnd: {
             Java: ["Spring Boot", "Sprint Cloud", "Spring Security", "Mybatis", "JPA", "Netty"],
