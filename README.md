@@ -17,7 +17,6 @@ const Unufolio = {
             Kotlin: ["Ktor", "Exposed"],
             CSharp: ["ASP.NET Core"],
             TypeScitpt: ["Node.js", "Deno", "Express", "Koa2", "Nest"],
-            JavaScript: ["Node.js", "Express", "Koa2", "Nest"]
         },
         devOps: ["Docker🐳", "Nginx", "Gitlab", "Jenkins", "Ansible"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
