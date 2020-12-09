@@ -8,11 +8,11 @@ const Unufolio = {
     pronouns: "He" | "Him",
     code: ["Java", "Go", "C#", "Kotlin", "TypeScitpt", "Dart", "C++"],
     technologies: {
-        frontEnd: {
+        frontend: {
             frameworks: ["Angular", "React.js", "Vue"],
             styles: ["Css"]
         },
-        backEnd: {
+        backend: {
             Java: ["Spring Boot", "Sprint Cloud", "Spring Security", "Mybatis", "JPA", "Netty"],
             Go: ["Gin", "Gorm"],
             Kotlin: ["Ktor", "Exposed"],
