@@ -2,7 +2,7 @@
 
 ---
 ![Unufolio github stats](https://github-readme-stats.vercel.app/api?username=unufolio&hide=["issues"]&show_icons=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=unufolio)](https://github.com/unufolio)
 ```javascript
 const Unufolio = {
     pronouns: "He" | "Him",
