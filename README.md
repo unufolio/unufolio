@@ -22,7 +22,7 @@ const Unufolio = {
         devOps: ["Docker🐳", "Nginx", "Gitlab", "Jenkins", "Ansible"],
         databases: ["MySQL", "Redis", "Mongo", "Tablestore"],
         misc: ["ElasticSearch", "Git", "Shell", "Markdown", "Linux", "MacOS", "Maven", "Gradle",
-               "ffmpeg", "gRPC", "Thrift", "Quarkus"]
+               "ffmpeg", "gRPC", "Thrift", "Quarkus", "Camunda", "Activiti"]
     }
 };
 ```
